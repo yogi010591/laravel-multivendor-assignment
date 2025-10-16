@@ -1,4 +1,4 @@
-# Laravel 12 Multi-Vendor Project
+# Laravel - Multi-Vendor Assignment
 
 A multi-vendor e-commerce system built with Laravel 12, supporting admin, vendors, and customers.
 
